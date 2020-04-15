@@ -19,7 +19,7 @@ function initMap(){
     let malidives = {
         lat: 3.940187,
         lng: 73.4868769
-    }
+    };
 
 
 let div = document.getElementById('centered');
